@@ -1,0 +1,11 @@
+footer {
+    height: 100px;
+    width: 100%;
+}
+
+p {
+    width: 80%;
+    text-align: right;
+    margin: auto;
+    line-height: 100px;
+}
